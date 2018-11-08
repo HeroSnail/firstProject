@@ -1,3 +1,9 @@
 <?php
+class father{
 
-This is index 
+}
+
+class son extends father{
+
+}
+
