@@ -7,6 +7,9 @@ class father{
 }
 
 class son extends father{
-
+	parent::__construct()
+	{
+		echo 'this is son class';
+	}
 }
 
