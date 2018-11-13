@@ -13,3 +13,7 @@ class son extends father{
 	}
 }
 
+class pet{
+
+}
+
