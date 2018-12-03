@@ -14,6 +14,9 @@ class son extends father{
 }
 
 class pet{
-
+	public function __construct()
+	{
+		echo 'this is class of pet';
+	}
 }
 
